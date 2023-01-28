@@ -40,7 +40,8 @@ for line in firstfile:
 secondfile.write(line)
 
 ### OUTPUT:
-![copy ](https://user-images.githubusercontent.com/119477817/215033166-a0c59f91-4e0c-4807-a2ae-de67d44b3efc.png)
+![copy ](https://user-images.githubusercontent.com/119477817/215267648-57d9cf97-70ac-4b9a-ade5-ce9e245cc549.png)
+
 
 
 
